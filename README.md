@@ -7,10 +7,10 @@
 
 *Concept and Design by [Manish Todkari](#about-the-designer), Senior Product Designer*
 
-<a href="tmanish.github.io/osprey/">View the formatted documentation (recommended) →</a>
+<a href="https://tmanish.github.io/osprey/">View the formatted documentation (recommended) →</a>
 <br/>
 
-<a href="tmanish.github.io/osprey/docs/">View the live prototype →</a>
+<a href="https://tmanish.github.io/osprey/docs/">View the live prototype →</a>
 
 </div>
 
