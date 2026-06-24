@@ -10,7 +10,7 @@
 <a href="https://tmanish.github.io/osprey/">View the formatted documentation (recommended) →</a>
 <br/>
 
-<a href="https://tmanish.github.io/osprey/docs/">View the live prototype →</a>
+<a href="https://tmanish.github.io/osprey/Osprey.html">View the live prototype →</a>
 
 </div>
 
