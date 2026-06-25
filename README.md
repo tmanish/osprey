@@ -5,7 +5,7 @@
 
 **A user-centered approach to agent orchestration.**
 
-*Concept and Design by [Manish Todkari](#about-the-designer), Senior Product Designer*
+*Concept and Design by [Manish Todkari](#about-the-designer) - Senior Product Designer*
 
 <a href="https://tmanish.github.io/osprey/">View the formatted documentation (recommended) →</a>
 <br/>
