@@ -123,7 +123,7 @@ None of these require tearing down what's here. They build on it. And the princi
 
 ## About the designer
 
-**Manish Todkari** works at the intersection of product design, AI, FinTech, and complex systems - designing interfaces for products where clarity, trust, and control are not nice-to-haves, but core to the experience.
+**Manish Todkari** is a senior product designer working at the intersection of AI, FinTech, and complex product systems, with deep experience designing for major financial institutions. His work focuses on making powerful technology easier to understand, operate, and trust — especially where clarity, control, and human judgment matter.
 
 Osprey is a self-initiated exploration of where interface craft is heading as software gains the ability to act on our behalf.
 
